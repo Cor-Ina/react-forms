@@ -17,8 +17,9 @@ input[type="text"], input[type="email"] {
   display: block;
 }
 
-input[type="checkbox"] {
+input[type="checkbox"], input[type="radio"] {
   margin-right: 0.75rem;
+  width: 30px;
 }
 
 textarea {
